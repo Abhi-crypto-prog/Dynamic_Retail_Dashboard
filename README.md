@@ -152,5 +152,8 @@ This dashboard helps:
 
 ---
 
+<img width="1140" height="728" alt="Screenshot 2026-04-27 025849" src="https://github.com/user-attachments/assets/9d0b08b4-4638-4936-a51d-aee0d1abbe48" />
+
+
 
 
